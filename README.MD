@@ -190,7 +190,7 @@ XEN is **self-hosted** — it runs on a personal machine. This means:
 
 ## 👨‍💻 Author
 
-**Divyanshu Sain**
+**Divyansh Sain**
 - GitHub: [@DivyanshhhSain](https://github.com/DivyanshhhSain)
 
 ---
